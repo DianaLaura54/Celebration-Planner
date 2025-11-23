@@ -1,4 +1,4 @@
-# Datavid Celebration Planner
+# Celebration Planner
 
 A birthday management system with AI-powered personal message generation, time zone support, and explainable AI capabilities. Built with Python/FastAPI and a modern web interface.
 
